@@ -19,7 +19,6 @@ MySQL
 Hibernate
 Thymeleaf templates
 ### What I'll Have to Learn
-Google Calender API
 Sending Email alert to patients for appointment reminder 
 ### Project Tracker
-https://trello.com/b/CzTkDHHQ/hospitalproj
+https://trello.com/b/CzTkDHHQ/sujatha
