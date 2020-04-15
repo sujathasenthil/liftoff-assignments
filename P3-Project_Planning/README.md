@@ -18,4 +18,4 @@ https://trello.com/b/CzTkDHHQ/sujatha
 ### Project Repo Link
 
 Include a link to your project on GitHub.
-https://github.com/sujathasenthil/hospital-proj
+https://github.com/sujathasenthil/patientAppointmentRepo
