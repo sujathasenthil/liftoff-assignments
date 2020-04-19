@@ -7,11 +7,13 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-The hospital management system is an application designed to keep track of outpatient information, doctors availability, appointment scheduling, etc. It allows new patients to create online accounts by providing their name, address and contact details. As well as, it allows them to choose Doctors based on their insurance details and helps in scheduling the appointment and updates the backend database with the patient details.
+The hospital management system is an application designed to keep track of patient information, patient appointments, etc. It allows new patients to create their online accounts by providing their name, address and contact details. As well as, it allows them to schedule appointments and updates the backend database with the patient details.
 ### Features
 User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
-Search: Users will be able to search for doctors using any keyword for specialist terms or based on insurance. 
-Schedule Appointment: Users will be able to schedule appointment when logged in. 
+Recover Password: Users will be able to retrieve their password, if they forgot their password by answering to a security question. 
+Schedule Appointment: Users will be able to schedule appointment
+View Appointment: Users can able to view all the appointments which they scheduled
+Delete Appointment: Users can able to delete appointment
 ### Technologies
 Java
 Spring Boot
